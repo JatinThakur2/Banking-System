@@ -23,16 +23,16 @@ This project helps us to understand the basic working of Bank accounts. Some of 
 
 **3. Build project**
 ```bash
-    mvn clean install
+mvn clean install
 ``` 
 
 **4. Run project** 
 ```bash
-    java -jar target/backend-0.0.1-SNAPSHOT.jar
+java -jar target/backend-0.0.1-SNAPSHOT.jar
 ``` 
 - Alternatively, you can run the app without packaging it using -
 ```bash
-    mvn spring-boot:run
+mvn spring-boot:run
 ```
   #### Explore apis in backend
 
@@ -54,17 +54,17 @@ The app defines following APIs.
 
 **2. Install Package**
 ```bash 
-    npm install
+npm install
 ```
 
 **3. Run Project**
 ```bash
-    npm start
+npm start
 ```
 
 **4. Open url**
 ```bash
-    http://localhost:4200/
+http://localhost:4200/
 ```
 # Application Screenshots
 
