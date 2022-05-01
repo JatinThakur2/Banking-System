@@ -7,7 +7,7 @@ This project helps us to understand the basic working of Bank accounts. Some of 
 - Transactions between two accounts
 - Fetching of the transaction history
 
-## Prerequisites
+## Requirements
 - java 1.8.x
 - maven 3.x
 - npm
